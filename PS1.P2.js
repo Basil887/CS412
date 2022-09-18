@@ -5,6 +5,18 @@ const operator = expr => {
         case "+":
             return (left, right)=>left +right;
             break;
+        case "-":
+            return (left, right)=>left -right;
+            break;
+        case "*":
+            return (left, right)=>left *right;
+            break;
+        case "/":
+            return (left, right)=>left /right;
+            break;
+        case "^":
+            return (left, right)=>left^right;
+            break;
 
     }
     return expr;
