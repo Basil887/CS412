@@ -16,12 +16,11 @@ const cadder = arr =>
 
 let str1 = "supercalifragilisticexpialidocious";
 console.log(eval(str1, csplit(str1) ))
-console.log("sfa"-"sfA")
 
 const func2 = (str,func) =>
 {
     let newstr= func(str)
-    let  num= filter(num)
+    let  num= count(str,'a')
     return {originalString:str, modifiedString:newstr, numberReplaced:num, length:newstr.length}
 }
 
@@ -37,6 +36,17 @@ const count =(str,char) =>
     return x
 }
 
-const uppercaseletter= (str,char)=>{
-    return str.replace(/str/g, char.toUpperCase())
+const uppercaseletter= (str)=>{
+    let arr=str.split("");
+    let char='a'
+    let newchar= char.toUpperCase();
+
+    for(let i=0; i<arr.length;i++){
+        if (arr[i]==char){
+            arr[i]=newchar
+        }
+    }
+    arr=arr.join("");
+    return arr;
 }
+console.table(func2(str1,uppercaseletter))
