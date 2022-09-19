@@ -36,3 +36,7 @@ const count =(str,char) =>
     }
     return x
 }
+
+const uppercaseletter= (str,char)=>{
+    return str.replace(/str/g, char.toUpperCase())
+}
