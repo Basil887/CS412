@@ -1,6 +1,6 @@
 
 const operator = expr => {
-    let [val1, op, val2]= expr.split("");
+    let [val1, op, val2]= expr;
     switch (op){
         case '+':
             return (left, right)=>left +right;
