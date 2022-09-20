@@ -37,16 +37,6 @@ const count =(str,char) =>
 }
 
 const uppercaseletter= (str)=>{
-    let arr=str.split("");
-    let char='a'
-    let newchar= char.toUpperCase();
-
-    for(let i=0; i<arr.length;i++){
-        if (arr[i]==char){
-            arr[i]=newchar
-        }
-    }
-    arr=arr.join("");
-    return arr;
+    return str.replaceAll("a","A")
 }
 console.table(func2(str1,uppercaseletter))
