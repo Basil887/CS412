@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0828461d-f028-405a-88c5-e2b7d5d9b1d3" name="Changes" comment="add file">
+      <change beforePath="$PROJECT_DIR$/PS2.P1.js" beforeDir="false" afterPath="$PROJECT_DIR$/PS2.P1.js" afterDir="false" />
+    </list>
+    <list id="792e5e49-0350-4cb1-bf71-e6fde30bf1cf" name="mis1" comment="mis1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ExcUHT7txuVVodpHuPNRb6r8j7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bmute&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0828461d-f028-405a-88c5-e2b7d5d9b1d3" name="Changes" comment="" />
+      <changelist id="792e5e49-0350-4cb1-bf71-e6fde30bf1cf" name="mis1" comment="mis1" />
+      <created>1663540690097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663540690097</updated>
+      <workItem from="1663540691341" duration="917000" />
+      <workItem from="1663541617850" duration="7265000" />
+      <workItem from="1663702449868" duration="3355000" />
+      <workItem from="1664299760651" duration="1363000" />
+      <workItem from="1664301161582" duration="714000" />
+      <workItem from="1664463831242" duration="1737000" />
+    </task>
+    <task id="LOCAL-00001" summary="creating js">
+      <created>1663541462061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663541462061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="creating project">
+      <created>1663541521012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663541521012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="n">
+      <created>1663541728223</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663541728223</updated>
+    </task>
+    <task id="LOCAL-00004" summary="n">
+      <created>1663541748217</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663541748217</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creating javascript">
+      <created>1663541841468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663541841468</updated>
+    </task>
+    <task id="LOCAL-00006" summary="creating function">
+      <created>1663542077455</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663542077455</updated>
+    </task>
+    <task id="LOCAL-00007" summary="breeking up the string then sorting then reversing.">
+      <created>1663542690252</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663542690252</updated>
+    </task>
+    <task id="LOCAL-00008" summary="breeking up the string then sorting then reversing then joining .">
+      <created>1663542780521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663542780521</updated>
+    </task>
+    <task id="LOCAL-00009" summary="breeking up the string then sorting then reversing then joining omitting test.">
+      <created>1663542842080</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1663542842080</updated>
+    </task>
+    <task id="LOCAL-00010" summary="creating JS">
+      <created>1663542944759</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1663542944759</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first case">
+      <created>1663543694397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1663543694397</updated>
+    </task>
+    <task id="LOCAL-00012" summary="all case">
+      <created>1663543812933</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1663543812933</updated>
+    </task>
+    <task id="LOCAL-00013" summary="helper function">
+      <created>1663544304642</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1663544304642</updated>
+    </task>
+    <task id="LOCAL-00014" summary="testing">
+      <created>1663545611846</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1663545611846</updated>
+    </task>
+    <task id="LOCAL-00015" summary="creating JV">
+      <created>1663545671635</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663545671635</updated>
+    </task>
+    <task id="LOCAL-00016" summary="part1">
+      <created>1663547508708</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663547508708</updated>
+    </task>
+    <task id="LOCAL-00017" summary="counter function">
+      <created>1663548121463</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663548121463</updated>
+    </task>
+    <task id="LOCAL-00018" summary="helper functions">
+      <created>1663548388491</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1663548388491</updated>
+    </task>
+    <task id="LOCAL-00019" summary="finished">
+      <created>1663548803173</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1663548803173</updated>
+    </task>
+    <task id="LOCAL-00020" summary="finished diffrent way">
+      <created>1663708021862</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663708021862</updated>
+    </task>
+    <task id="LOCAL-00021" summary="finished diffrent way">
+      <created>1663708455446</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663708455446</updated>
+    </task>
+    <task id="LOCAL-00022" summary="finished diffrent way">
+      <created>1663708793314</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663708793314</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add file">
+      <created>1664463853982</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1664463853982</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="PS2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="creating js" />
+    <MESSAGE value="creating project" />
+    <MESSAGE value="n" />
+    <MESSAGE value="creating javascript" />
+    <MESSAGE value="creating function" />
+    <MESSAGE value="breeking up the string then sorting then reversing." />
+    <MESSAGE value="breeking up the string then sorting then reversing then joining ." />
+    <MESSAGE value="breeking up the string then sorting then reversing then joining omitting test." />
+    <MESSAGE value="creating JS" />
+    <MESSAGE value="first case" />
+    <MESSAGE value="all case" />
+    <MESSAGE value="helper function" />
+    <MESSAGE value="testing" />
+    <MESSAGE value="creating JV" />
+    <MESSAGE value="part1" />
+    <MESSAGE value="function 2" />
+    <MESSAGE value="counter function" />
+    <MESSAGE value="helper functions" />
+    <MESSAGE value="finished" />
+    <MESSAGE value="finished diffrent way" />
+    <MESSAGE value="add file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file" />
+  </component>
+</project>
