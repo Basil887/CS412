@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0828461d-f028-405a-88c5-e2b7d5d9b1d3" name="Changes" comment="add file">
-      <change beforePath="$PROJECT_DIR$/PS2.P1.js" beforeDir="false" afterPath="$PROJECT_DIR$/PS2.P1.js" afterDir="false" />
+    <list default="true" id="0828461d-f028-405a-88c5-e2b7d5d9b1d3" name="Changes" comment="finished p2">
+      <change afterPath="$PROJECT_DIR$/PS2.P3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="792e5e49-0350-4cb1-bf71-e6fde30bf1cf" name="mis1" comment="mis1" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,7 @@
       <workItem from="1663702449868" duration="3355000" />
       <workItem from="1664299760651" duration="1363000" />
       <workItem from="1664301161582" duration="714000" />
-      <workItem from="1664463831242" duration="1737000" />
+      <workItem from="1664463831242" duration="2681000" />
     </task>
     <task id="LOCAL-00001" summary="creating js">
       <created>1663541462061</created>
@@ -224,7 +225,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664463853982</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="finished p1">
+      <created>1664466407134</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1664466407134</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add java file">
+      <created>1664466452069</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664466452069</updated>
+    </task>
+    <task id="LOCAL-00026" summary="finished p2">
+      <created>1664466737118</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1664466737118</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,6 +303,9 @@
     <MESSAGE value="finished" />
     <MESSAGE value="finished diffrent way" />
     <MESSAGE value="add file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file" />
+    <MESSAGE value="finished p1" />
+    <MESSAGE value="add java file" />
+    <MESSAGE value="finished p2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished p2" />
   </component>
 </project>
