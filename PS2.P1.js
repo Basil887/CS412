@@ -14,7 +14,7 @@ function* fib (){
 function* evenfib(){
     let fibgen=fib();
     while(true) {
-        current = fibgen.next();
+        let current = fibgen.next();
         if (current.value % 2 === 0) {
             yield current;
         }
