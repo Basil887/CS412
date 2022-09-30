@@ -1,19 +1,19 @@
-function* fib (n){
+function* fib (){
     let a=0;
     let b=1;
     let c=0;
     yield a;
     yield b;
-    for(let i=0; i<n;i++){
+    while(true){
         c=a+b;
         a=b;
         b=c;
         yield c;
     }
 }
-function* evenfib(n){
-    let fibgen=fib(Number.MAX_SAFE_INTEGER);
-    for(let i=0; i<n;i++){
+function* evenfib(numberofevens){
+    let fibgen=fib();
+    for(let i=0; i<numberofevens;i++){
         current=fibgen.next();
         while(current.value%2!==0){
             current=fibgen.next();
