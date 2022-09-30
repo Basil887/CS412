@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0828461d-f028-405a-88c5-e2b7d5d9b1d3" name="Changes" comment="finished p2">
-      <change afterPath="$PROJECT_DIR$/PS2.P3.js" afterDir="false" />
+    <list default="true" id="0828461d-f028-405a-88c5-e2b7d5d9b1d3" name="Changes" comment="finished p3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="792e5e49-0350-4cb1-bf71-e6fde30bf1cf" name="mis1" comment="mis1" />
@@ -62,7 +61,8 @@
       <workItem from="1663702449868" duration="3355000" />
       <workItem from="1664299760651" duration="1363000" />
       <workItem from="1664301161582" duration="714000" />
-      <workItem from="1664463831242" duration="2681000" />
+      <workItem from="1664463831242" duration="3354000" />
+      <workItem from="1664552803199" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="creating js">
       <created>1663541462061</created>
@@ -246,7 +246,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664466737118</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="finished p3">
+      <created>1664467380474</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1664467380474</updated>
+    </task>
+    <task id="LOCAL-00028" summary="finished p3">
+      <created>1664553322013</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1664553322013</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +320,7 @@
     <MESSAGE value="finished p1" />
     <MESSAGE value="add java file" />
     <MESSAGE value="finished p2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished p2" />
+    <MESSAGE value="finished p3" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished p3" />
   </component>
 </project>

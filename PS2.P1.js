@@ -11,19 +11,19 @@ function* fib (){
         yield c;
     }
 }
-function* evenfib(numberofevens){
+function* evenfib(){
     let fibgen=fib();
-    for(let i=0; i<numberofevens;i++){
-        current=fibgen.next();
-        while(current.value%2!==0){
-            current=fibgen.next();
+    while(true) {
+        current = fibgen.next();
+        if (current.value % 2 === 0) {
+            yield current;
         }
-        yield current;
+
     }
 }
 let gen= evenfib(6);
 let cur =gen.next();
-while(!(cur.done))
+for(let iteration=0; iteration<6;iteration++)
 {
     console.log(cur.value);
     cur=gen.next();
